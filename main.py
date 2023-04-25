@@ -1,14 +1,3 @@
-""" Python Classes
-1. Polymorphism, multiple classes can be interchangeable
-2. Inheritance, copies data & behavior from one class to another
-3. Encapsulation, conceals data?
-
-Python is a consenting adult language, and doesn't have proper encapsulation.
-
-Class Object Factory, Instance Blueprint
-Methods: function in a class
-Attributes: key/value data
-"""
 from typing import Union
 
 
